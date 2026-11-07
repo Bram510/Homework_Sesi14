@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10122","should login successfully with standard user","Swag Labs - Login Scenarios","2026-11-07","passed","2026-11-07","","","",""
+"","14937","verify homepage, scroll down/up, filter and logout","Home Page","2026-11-07","passed","2026-11-07","","","",""
+"","8862","Negative test: should fail login with locked out user","Swag Labs - Login Scenarios","2026-11-07","passed","2026-11-07","","","",""
